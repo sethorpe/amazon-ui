@@ -1,0 +1,5 @@
+geckodriver.log
+.vscode/
+.pytest_cache
+pages/__init__.py
+.DS_Store
