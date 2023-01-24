@@ -3,3 +3,4 @@ geckodriver.log
 .pytest_cache
 pages/__init__.py
 .DS_Store
+Pipfile.lock
